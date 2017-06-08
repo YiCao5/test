@@ -1,4 +1,6 @@
 this line is on master branch.
+after git stash the working directory, changes made here to
+move the HEAD forward. to test conflict.
 
 print "I will now count my chickens:"
 
@@ -26,3 +28,4 @@ print "Is it less or equal?", 5 <= -2
 
 # added one line comment
 # added one line comment
+# created a new branch feature1

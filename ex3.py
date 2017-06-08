@@ -1,3 +1,6 @@
+after git stash the working directory, changes made here to
+move the HEAD forward. to test conflict.
+
 print "I will now count my chickens:"
 
 print "Hens", 25 + 30 / 6

@@ -1,4 +1,5 @@
-this line is on master branch.
+more changes on master branch.
+this line is on master  branch.
 after git stash the working directory, changes made here to
 move the HEAD forward. to test conflict.
 
